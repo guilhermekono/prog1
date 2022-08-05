@@ -9,4 +9,5 @@ mostra quanto o aluno precisa de nota nas próximas avaliações, para ser aprov
 A media a ser alcançada é 6.0;
 
 Compilação: javac Main.java
+
 Execução: java Main
